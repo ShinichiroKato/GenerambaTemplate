@@ -1,0 +1,22 @@
+# Template information section
+name: "presentation"
+summary: "for iOS Clean Architecture + Wireframe presentation layer"
+author: "Shinichiro Kato"
+version: "0.1.0"
+license: "MIT"
+
+# The declarations for code files
+
+code_files:
+
+# View
+- {name: View/ViewController.swift, path: Code/View/viewcontroller.swift.liquid}
+
+# Presenter
+- {name: Presenter/Presenter.swift, path: Code/Presenter/presenter.swift.liquid}
+
+# Builder
+- {name: Builder/Builder.swift, path: Code/Builder/builder.swift.liquid}
+
+# Wireframe
+- {name: Wireframe/Wireframe.swift, path: Code/Wireframe/wireframe.swift.liquid}
