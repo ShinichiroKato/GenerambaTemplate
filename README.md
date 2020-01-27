@@ -1,0 +1,2 @@
+# GenerambaTemplate
+GenerambaTemplate for iOS
